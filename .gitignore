@@ -2,3 +2,8 @@
 eagle.epf
 *.b#*
 *.s#*
+*.ger
+*.gpi
+*.dri
+*.xln
+*.zip
